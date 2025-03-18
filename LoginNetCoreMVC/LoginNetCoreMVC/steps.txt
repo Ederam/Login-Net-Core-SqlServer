@@ -1,1 +1,76 @@
 ﻿
+
+
+Proyecto Login
+https://www.youtube.com/watch?v=WyD-StDno9I
+Cómo crear un login y registro de usuarios con .NET Core y SQL Server
+
+Crear proyecto de tipo Vista controlado de Net Core
+ASP.NET Core Web App (Model-View-Controller)
+
+Incluir Git
+git branch -M main
+git remote add origin https://github.com/Ederam/Login-Net-Core-SqlServer.git
+git push -u origin main
+
+agregar paquetes a traves del administrador de nuget ultimas versiones 
+EntityFrameworkCore.SqlServer 
+EntityframeworkCore.Tools
+
+crear Model para Usuario
+
+	
+
+Crear clase  UsuarioContext que herede de DbContext
+	click dere genere constructor con options
+
+Crear cadena de conexion
+en archivo D:\ER-DEV\.Net\Login\LoginNetCoreMVC\LoginNetCoreMVC\appsettings.json
+configurar la cadena de conexion
+Inyectar el contexto de datos en la clase program
+
+ya con el contexto configurado se puede ejecutar migracion hacia la BD
+Abrir consola del administrador de paquetes
+	add-migration Usuarios <Se puede personalizar el nombre 'Usuarios' por ejemplo>
+	este comenado crea archivo con el query que ejecuta en la base de datos
+	D:\ER-DEV\.Net\Login\LoginNetCoreMVC\LoginNetCoreMVC\Migrations\20250318171013_Usuarios.cs
+	luego se confirman los cambios con el comando
+		update-database
+	Si todo salio bien validar en base de datos
+
+Crear carpeta Services
+	agregar clase utilidades
+	 y alli agregar metodo para encriptar clave
+	Crear interface de usuario
+Agregar package para uso y manejo de archivos de imagenes
+	FirebaseAuthentication.net version 3.7.2 (sugerida)
+	FirebaseStorage.net
+Agregar la interfaz para fileservice
+agregar clase que implementa la interfaz
+
+Crear controlador en blanco LoginController
+Inyectar las dependencias; las interfaces de Usuario y File y los servicios para poder utilizrla en cualquier controlador
+Controlador
+	Agregar metodos de registro e iniciar sesion
+		uso de claims para manejo de cookies
+	Agregar las vistas Razor
+	Registro
+		Inyectar el modelo y agregar el html de la vista
+	Iniciar sesion
+		copiar html
+HomeController
+	en el index se va a tuilizar la informacion de la sesion conectada, usando los claims
+	configurar el index para tomar los datos de las cookies
+	agregar metodo cerrar sesion
+Configuraciones adicionales Program.cs
+agregar autenticacion
+	builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)......
+	configuracion de opciones para manejo de las vistas
+	configurar pagina de arranque de la aplicacion
+	ajuste de vista index para mostrar foto de perfil y nombre de usuario
+
+Usuarios de prueba
+Camilo Ramirez
+camilo@test.com
+123456
+

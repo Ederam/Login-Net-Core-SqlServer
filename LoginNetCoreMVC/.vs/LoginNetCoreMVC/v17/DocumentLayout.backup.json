@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\views\\login\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\views\\login\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\views\\login\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\views\\login\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\services\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\services\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\services\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\services\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|d:\\er-dev\\.net\\login\\loginnetcoremvc\\loginnetcoremvc\\migrations\\20250318171013_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA7A90-89FD-4522-9B2A-778E52F7ACFB}|LoginNetCoreMVC\\LoginNetCoreMVC.csproj|solutionrelative:loginnetcoremvc\\migrations\\20250318171013_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T21:26:50.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T21:26:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:10:54.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Login\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Views\\Login\\IniciarSesion.cshtml",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Login\\IniciarSesion.cshtml",
+              "RelativeToolTip": "LoginNetCoreMVC\\Views\\Login\\IniciarSesion.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T20:23:31.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Login\\Registro.cshtml",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Views\\Login\\Registro.cshtml",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Login\\Registro.cshtml",
+              "RelativeToolTip": "LoginNetCoreMVC\\Views\\Login\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T20:14:35.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:43:46.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilesService.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\FilesService.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Services\\FilesService.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\FilesService.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Services\\FilesService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:37:10.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFilesService.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\IFilesService.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Services\\IFilesService.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\IFilesService.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Services\\IFilesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:35:03.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:26:46.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "steps.txt",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\steps.txt",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\steps.txt",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\steps.txt",
+              "RelativeToolTip": "LoginNetCoreMVC\\steps.txt",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-18T16:34:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Services\\IUsuarioService.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:22:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Program.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Program.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:03:46.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\Utilidades.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Services\\Utilidades.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Services\\Utilidades.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Services\\Utilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:20:21.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250318171013_Usuarios.cs",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Migrations\\20250318171013_Usuarios.cs",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Migrations\\20250318171013_Usuarios.cs",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Migrations\\20250318171013_Usuarios.cs",
+              "RelativeToolTip": "LoginNetCoreMVC\\Migrations\\20250318171013_Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:10:13.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
