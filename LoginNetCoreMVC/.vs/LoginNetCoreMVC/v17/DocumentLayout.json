@@ -66,21 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T21:26:50.619Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -196,6 +183,19 @@
               "ViewState": "AgIAACwAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-18T16:34:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ER-DEV\\.Net\\Login\\LoginNetCoreMVC\\LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T21:26:50.619Z",
               "EditorCaption": ""
             },
             {
